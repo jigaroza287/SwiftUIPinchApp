@@ -1,4 +1,4 @@
-# **SwiftUI Hike App**
+# **SwiftUI Pinch App**
 
 
 ## **Introduction**
